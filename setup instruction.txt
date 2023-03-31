@@ -71,4 +71,5 @@
     }
 }
 
-6. run code and enjoy
+6. Create input.txt and output.txt then open and split them at right.
+7. run code and enjoy
