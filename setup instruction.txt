@@ -5,14 +5,18 @@
 5. Code runner extension setting in json file:
 
 {
-    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
-    "code-runner.runInTerminal": true,
-    "code-runner.saveAllFilesBeforeRun": true,
-    "C_Cpp.default.cStandard": "c11",
-    "C_Cpp.default.cppStandard": "c++20",
-    "terminal.integrated.defaultProfile.windows": "Git Bash",
-    "code-runner.terminalRoot": "/",
-    "code-runner.executorMap": {
+    "workbench.colorTheme": "Default Dark+",
+  "code-runner.runInTerminal": true,
+  "code-runner.saveAllFilesBeforeRun": true,
+  "editor.formatOnSave": true,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "afterDelay",
+  "C_Cpp.default.cStandard": "c17",
+  "C_Cpp.default.cppStandard": "c++20",
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "code-runner.terminalRoot": "/",
+  "code-runner.executorMap": {
         
 
 
